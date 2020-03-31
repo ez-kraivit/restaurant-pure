@@ -1,0 +1,3 @@
+SQL คือส่วนของ Database ชื่อไฟล์ว่า  restaurant.sql
+
+ส่วนตัว connection Data ชื่อ connection.php

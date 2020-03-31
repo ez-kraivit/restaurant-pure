@@ -1,0 +1,13 @@
+Domain: www.dooho.ml 
+PHP V.7.3
+
+Database: twentyse_doohoo
+Host: localhost
+Username: twentyse_doohoo
+Password: dUQ5RQAytv
+phpMyAdmin: http://103.129.15.60/phpmyadmin
+
+FTP Hostname: 103.129.15.60
+FTP Username: doohoo@dooho.ml
+FTP Password: nHBIqJeK
+FTP Port : 2120
